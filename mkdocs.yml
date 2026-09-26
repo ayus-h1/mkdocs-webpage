@@ -1,17 +1,17 @@
-site_name: Your Site Name
-site_description: Your site description
-site_url: https://yourdomain.com
+site_name: Ayush Patel
+site_description: AI and Mechatronics Engineering
+site_url: https://ayushvijaykumarpatel.com
 
 nav:
   - Home:
-    - About: index.md
-  - Case Studies:
-    - Overview: portfolio/index.md
-    - Projects:
-      - portfolio/projects/project-1.md
-      - portfolio/projects/project-2.md
+      - About: index.md
+  # - Case Studies:
+  #     - Overview: portfolio/index.md
+  #     - Projects:
+  #         - portfolio/projects/project-1.md
+  #         - portfolio/projects/project-2.md
   - Blog:
-    - blog/index.md 
+      - blog/index.md
 
 theme:
   name: material
@@ -31,14 +31,14 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
       primary: custom
-      accent: custom  
+      accent: custom
     - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
+        name: Switch to light mode
       primary: custom
       accent: custom
   font:
@@ -52,13 +52,13 @@ extra:
   generator: true
   social:
     - icon: fontawesome/solid/building
-      link: https://company.com
+      link: https://ayushvijaykumarpatel.com
     - icon: fontawesome/brands/github
-      link: https://github.com/
+      link: https://github.com/ayus-h1
     - icon: fontawesome/brands/youtube
-      link: https://youtube.com/
+      link: https://www.youtube.com/@ayushvijaykumarpatel
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com
+      link: https://www.linkedin.com/in/ayush-patel-2002-/
   analytics:
     # provider: google
     # property: G-W9Y130NXVZ
@@ -70,7 +70,7 @@ plugins:
   - search
   - social:
       cards_layout_options:
-        background_color: "#111111"
+        background_color: "#14213d"
   - blog:
       blog_dir: blog
       authors_file: "{blog}/.authors.yml"
@@ -102,4 +102,4 @@ extra_files:
   - docs/robots.txt
 
 copyright: |
-  &copy; 2024 <a href="https://www.linkedin.com" target="_blank" rel="noopener">John Doe</a>. All rights reserved.
+  &copy; 2026 <a href="https://www.linkedin.com/in/ayushvijaykumarpatel/" target="_blank" rel="noopener">Ayush Patel</a>. All rights reserved.

@@ -47,7 +47,7 @@ canonical_url: https://www.ayushvijaykumarpatel.com/
 
 <div class="profile-image-grid" markdown>
 
-![Ayush Patel, AI and Automation](assets/@DSC09076_cropped.jpg){ .profile-image alt="Portrait of Ayush Patel" }
+![Ayush Patel, AI and Automation](assets/DSC09076_cropped.jpg){ .profile-image alt="Portrait of Ayush Patel" }
 
 </div>
 
@@ -73,31 +73,31 @@ I approach each project from the problem first, rather than forcing a particular
 
 Here's how building real-world engineering systems allows me to solve your business problems effectively:
 
-<div class="grid cards" markdown>
+<div class="grid cards why-work-cards" markdown>
 
-- :fontawesome-solid-building-user:{ .lg .middle } **Engineering-First Approach**
+-   :material-cog:{ .lg .middle } __Engineering-First Approach__
 
-  ***
+    ---
 
-  My background in mechatronics engineering gives me experience working across software, hardware, controls, and data. I focus on understanding the underlying problem before deciding which technology is the right solution.
+    My background in mechatronics engineering gives me experience working across software, hardware, controls, and data. I focus on understanding the underlying problem before deciding which technology is the right solution.
 
-- :material-youtube:{ .lg .middle } **Applied AI and Robotics**
+-   :material-robot:{ .lg .middle } __Applied AI and Robotics__
 
-  ***
+    ---
 
-  I represented Canada at the SICK Solution Hackathon in Waldkirch, Germany. I have also contributed software to the EcoCAR Advanced Vehicle Technology Competition, working on technologies for connected and automated vehicles.
+    I represented Canada at the SICK Solution Hackathon in Waldkirch, Germany. I have also contributed software to the EcoCAR Advanced Vehicle Technology Competition, working on technologies for connected and automated vehicles.
 
-- :material-school:{ .lg .middle } **From concept to working solution**
+-   :material-lightbulb-on:{ .lg .middle } __From concept to working solution__
 
-  ***
+    ---
 
-  I enjoy taking ideas beyond the prototype. From software architecture and data pipelines to hardware integration and control systems, I can work across different layers of a technical solution and turn concepts into functional systems.
+    I enjoy taking ideas beyond the prototype. From software architecture and data pipelines to hardware integration and control systems, I can work across different layers of a technical solution and turn concepts into functional systems.
 
-- :material-rocket:{ .lg .middle } **Clear Technical Communication**
+-   :material-message-text:{ .lg .middle } __Clear Technical Communication__
 
-  ***
+    ---
 
-  Technical solutions are only useful when they're understood and maintainable. I prioritize clear communication, practical documentation, and explaining technical decisions so clients can understand both what is being built and why.
+    Technical solutions are only useful when they're understood and maintainable. I prioritize clear communication, practical documentation, and explaining technical decisions so clients can understand both what is being built and why.
 
 </div>
 

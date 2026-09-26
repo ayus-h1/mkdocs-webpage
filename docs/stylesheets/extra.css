@@ -1,65 +1,159 @@
-/* Light theme custom colors */
+:root {
+  --palette-black: #000000;
+  --palette-navy: #14213d;
+  --palette-orange: #fca311;
+  --palette-gray: #e5e5e5;
+  --palette-white: #ffffff;
+}
+
+/* Light theme */
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: #000111;
-  --md-accent-fg-color: #2856f7;
-  --md-typeset-a-color: var(--md-accent-fg-color);
-  --md-footer-bg-color: var(--md-primary-fg-color);
+  --md-primary-fg-color: var(--palette-navy);
+  --md-primary-fg-color--light: var(--palette-navy);
+  --md-primary-fg-color--dark: var(--palette-black);
+  --md-primary-bg-color: var(--palette-white);
+  --md-accent-fg-color: var(--palette-orange);
+  --md-accent-fg-color--transparent: rgba(252, 163, 17, 0.12);
+  --md-typeset-a-color: var(--palette-navy);
+  --md-default-bg-color: var(--palette-white);
+  --md-default-fg-color: var(--palette-black);
+  --md-default-fg-color--light: #14213dcc;
+  --md-default-fg-color--lighter: #14213d99;
+  --md-footer-bg-color: var(--palette-navy);
+  --md-footer-bg-color--dark: var(--palette-black);
+  --md-code-bg-color: var(--palette-gray);
+  --md-code-fg-color: var(--palette-black);
 }
 
-/* Dark theme custom colors */
+/* Dark theme */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #000111;
-  --md-default-bg-color: #090d1d;
-  --md-accent-fg-color: #8e92f8;
-  --md-typeset-a-color: var(--md-accent-fg-color);
+  --md-primary-fg-color: var(--palette-navy);
+  --md-primary-fg-color--light: var(--palette-navy);
+  --md-primary-fg-color--dark: var(--palette-black);
+  --md-primary-bg-color: var(--palette-white);
+  --md-accent-fg-color: var(--palette-orange);
+  --md-accent-fg-color--transparent: rgba(252, 163, 17, 0.16);
+  --md-typeset-a-color: var(--palette-orange);
+  --md-default-bg-color: var(--palette-black);
+  --md-default-fg-color: var(--palette-white);
+  --md-default-fg-color--light: #e5e5e5cc;
+  --md-default-fg-color--lighter: #e5e5e599;
+  --md-footer-bg-color: var(--palette-navy);
+  --md-footer-bg-color--dark: var(--palette-black);
+  --md-code-bg-color: var(--palette-navy);
+  --md-code-fg-color: var(--palette-gray);
 }
 
-/* Dark Theme Custom Button */
-[data-md-color-scheme="slate"] .md-button {
-  background-color: var(--md-accent-fg-color);
-  border-color: var(--md-accent-fg-color);
+/* Primary buttons use the orange accent */
+.md-typeset .md-button--primary {
+  background-color: var(--palette-orange);
+  border-color: var(--palette-orange);
+  color: var(--palette-black);
 }
 
-/* Optional: Custom hover effects */
-[data-md-color-scheme="slate"] .md-button:hover {
-  background-color: #ffffff;
-  border-color: #ffffff;
-  color: #000000;
+.md-typeset .md-button--primary:hover,
+.md-typeset .md-button--primary:focus {
+  background-color: var(--palette-navy);
+  border-color: var(--palette-navy);
+  color: var(--palette-white);
 }
 
-/* Footer Section */
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary:hover,
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary:focus {
+  background-color: var(--palette-white);
+  border-color: var(--palette-white);
+  color: var(--palette-black);
+}
+
+.md-typeset .md-button:not(.md-button--primary) {
+  color: var(--palette-navy);
+  border-color: var(--palette-navy);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .md-button:not(.md-button--primary) {
+  color: var(--palette-orange);
+  border-color: var(--palette-orange);
+}
+
+/* Header and tabs */
+.md-header,
+.md-tabs {
+  background-color: var(--md-primary-fg-color);
+}
+
+.md-header__title,
+.md-header__button,
+.md-tabs__link {
+  color: var(--palette-white);
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: var(--palette-orange);
+}
+
+/* Footer */
 .md-footer {
-  background-color: #090d1d;
+  background-color: var(--palette-navy);
 }
 
 .md-footer-meta {
-  background-color: #000111;
+  background-color: var(--palette-black);
+}
+
+/* Cards */
+[data-md-color-scheme="default"] .md-typeset .grid.cards > ul > li,
+[data-md-color-scheme="default"] .md-typeset .grid.cards > ol > li {
+  background-color: var(--palette-gray);
+  border-color: var(--palette-gray);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .grid.cards > ul > li,
+[data-md-color-scheme="slate"] .md-typeset .grid.cards > ol > li {
+  background-color: var(--palette-navy);
+  border-color: var(--palette-navy);
+}
+
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover {
+  border-color: var(--palette-orange);
+}
+
+.md-typeset .grid.cards a:hover {
+  color: var(--palette-orange);
 }
 
 /* Testimonial cards */
 .grid.cards.testimonials {
-    grid-template-columns: 1fr !important;
-    gap: 1.5rem;
-    margin: 1rem 0;
+  grid-template-columns: 1fr !important;
+  gap: 1.5rem;
+  margin: 1rem 0;
 }
 
-/* Keep card titles/dividers aligned when one title wraps */
+/* Why work with me: 2x2 grid instead of auto-fit leftover card */
+.md-typeset .grid.cards.why-work-cards {
+  grid-template-columns: 1fr;
+}
+
+@media screen and (min-width: 45em) {
+  .md-typeset .grid.cards.why-work-cards {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
 .md-typeset .grid.cards > ul > li,
 .md-typeset .grid.cards > ol > li {
   display: flex;
   flex-direction: column;
 }
 
-.md-typeset .grid.cards > ul > li > p:first-child,
-.md-typeset .grid.cards > ol > li > p:first-child {
-  min-height: 3.25em;
+.md-typeset .grid.cards > ul > li > :first-child,
+.md-typeset .grid.cards > ol > li > :first-child {
+  min-height: 3.5em;
 }
 
-/* Style the author name and title */
 .grid.cards.testimonials p:nth-child(2) {
-    margin-top: -0.5rem;
-    color: var(--md-default-fg-color--light);
-    font-size: 0.9rem;
+  margin-top: -0.5rem;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.9rem;
 }
-
-

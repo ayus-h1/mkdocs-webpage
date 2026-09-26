@@ -1,30 +1,28 @@
 ---
 title: About Me
-description: Explore AI, data science, and entrepreneurship with Dave Ebbelaar. Learn about Datalumina, AI tutorials, freelancing, and innovative AI solutions for businesses.
-keywords: Dave Ebbelaar, AI entrepreneur, Datalumina, AI tutorials, Data Freelancer, GenAI Launchpad
-author: Dave Ebbelaar
-canonical_url: https://www.daveebbelaar.com/
+description: Explore AI, Robotics, and Automation with Ayush Patel.
+keywords: Ayush Patel, AI entrepreneur, Robotics, Automation
+author: Ayush Patel
+canonical_url: https://www.ayushvijaykumarpatel.com/
 ---
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Dave Ebbelaar",
-  "url": "https://www.daveebbelaar.com/",
+  "name": "Ayush Patel",
+  "url": "https://www.ayushvijaykumarpatel.com/",
   "image": "https://avatars.githubusercontent.com/u/34709402?v=4",
   "sameAs": [
-    "https://www.youtube.com/channel/UCn8ujwUInbJkBhffxqAPBVQ",
-    "https://www.youtube.com/@daveebbelaar",
-    "https://www.linkedin.com/in/daveebbelaar/",
-    "https://github.com/daveebbelaar"
-    "https://www.skool.com/@daveebbelaar"
+    "https://www.youtube.com/@ayushvijaykumarpatel",
+    "https://www.linkedin.com/in/ayush-patel-2002-/",
+    "https://github.com/ayus-h1"
   ],
-  "jobTitle": "Founder & CEO",
+  "jobTitle": "Mechatronics Engineering",
   "worksFor": {
     "@type": "Organization",
-    "name": "Datalumina",
-    "url": "https://www.datalumina.com/"
+    "name": "Westinghouse",
+    "url": "https://westinghousenuclear.com/"
   },
 }
 </script>
@@ -33,27 +31,23 @@ canonical_url: https://www.daveebbelaar.com/
 
 <div class="text-intro-grid" markdown>
 
-# Turn AI complexity into your competitive advantage
+# From complex problems to intelligent, automated systems
 
-### I have 5+ years experience doing just that
+### I work day and night just on that
 
-- Are you struggling to keep up with the rapid pace of AI innovation?
+- Have a problem that off-the-shelf software can't solve?
 
-- Do you need help translating AI hype into real business results?
+- Need a custom system that connects software, data, and real-world operations?
 
-- Want to implement AI effectively before competitors get ahead?
+- Have an idea that needs to be turned into a working prototype?
 
-- Looking for technical expertise and a clear roadmap for AI solutions?
-
-- Need someone who understands both technical and business perspectives?
-
-[Book Free Intro Call :material-arrow-top-right:](https://www.calendly.com){ .md-button .md-button--primary }
+[Book Free Intro Call :material-arrow-top-right:](https://calendly.com/ayushvpatel/introduction-call){ .md-button .md-button--primary }
 
 </div>
 
 <div class="profile-image-grid" markdown>
 
-![Dave Ebbelaar, AI Entrepreneur and Educator](assets/@daveebbelaar.jpg){ .profile-image alt="Portrait of Dave Ebbelaar, AI entrepreneur and educator" }
+![Ayush Patel, AI and Automation](assets/@DSC09076_cropped.jpg){ .profile-image alt="Portrait of Ayush Patel" }
 
 </div>
 
@@ -61,109 +55,118 @@ canonical_url: https://www.daveebbelaar.com/
 
 ## About me
 
-Hi! I'm Dave, an entrepreneur and educator from the Netherlands. I work with technical professionals facing the overwhelming pace of AI innovation and businesses struggling to translate AI hype into competitive advantage. Whether you're a developer watching your skills becoming obsolete or a company unsure how to implement AI effectively—the challenge is the same: how to effectively use this technology before your competitors do.
+I'm a mechatronics engineering professional with a strong focus on software, AI/ML, automation, and intelligent systems.
 
-My artificial intelligence journey spans over a decade, with bachelor's and master's degrees in the field and experience building custom data and AI systems across utilities, government, and e-commerce sectors. My tech stack includes Python, PostgreSQL, ML, FastAPI, OpenAI, Claude, Azure, vector databases, RAG, and LLM integration for enterprise applications.
+My work sits at the intersection of software and the physical world. I've developed control software for robotic systems, worked with industrial hardware and motion control, and built applications that bring together software, data, databases, and real-time systems.
+
+My academic background has given me a strong foundation in machine learning, intelligent and predictive control, robotics, and systems engineering, which I apply to practical engineering and business problems.
+
+Through my work and projects, I've learned that the most interesting problems rarely fit neatly into one category. Sometimes the solution is AI. Sometimes it's better software, automation, data processing, or a combination of several technologies.
+
+That's where I come in.
+
+I help businesses turn complex technical problems into practical, reliable solutions—from AI and machine learning applications to custom software, automation, and data-driven systems.
+
+I approach each project from the problem first, rather than forcing a particular technology onto it. My goal is to understand how your business or system works, identify where technology can create real value, and build a solution that is useful beyond the prototype.
 
 ## Why work with me?
 
-Here's what sets me apart and how I can help drive value for your business:
+Here's how building real-world engineering systems allows me to solve your business problems effectively:
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-building-user:{ .lg .middle } Proven Business Experience
+- :fontawesome-solid-building-user:{ .lg .middle } **Engineering-First Approach**
 
-    ---
+  ***
 
-    As the founder of Datalumina, I bring entrepreneurial insight to every project. I understand both the technical and business sides of AI implementation, ensuring solutions that deliver real ROI and align with your business goals.
+  My background in mechatronics engineering gives me experience working across software, hardware, controls, and data. I focus on understanding the underlying problem before deciding which technology is the right solution.
 
--   :material-youtube:{ .lg .middle } Educator & Communicator
+- :material-youtube:{ .lg .middle } **Applied AI and Robotics**
 
-    ---
+  ***
 
-    My experience as a content creator and educator means I can break down complex technical concepts into clear, actionable insights. You'll always understand the 'why' behind technical decisions and get clear progress updates.
+  I represented Canada at the SICK Solution Hackathon in Waldkirch, Germany. I have also contributed software to the EcoCAR Advanced Vehicle Technology Competition, working on technologies for connected and automated vehicles.
 
--   :material-school:{ .lg .middle } Industry Expert
+- :material-school:{ .lg .middle } **From concept to working solution**
 
-    ---
+  ***
 
-    With over a decade in AI and data science, including work across utilities, government, and e-commerce sectors, I bring battle-tested expertise to your projects. My solutions are built on real-world experience, not just theory.
+  I enjoy taking ideas beyond the prototype. From software architecture and data pipelines to hardware integration and control systems, I can work across different layers of a technical solution and turn concepts into functional systems.
 
--   :material-rocket:{ .lg .middle } Fast Implementation
+- :material-rocket:{ .lg .middle } **Clear Technical Communication**
 
-    ---
+  ***
 
-    I specialize in rapid development and deployment of AI solutions. Using modern tools and proven frameworks, I can help you move from concept to production faster, giving you a competitive edge in today's fast-paced market.
+  Technical solutions are only useful when they're understood and maintainable. I prioritize clear communication, practical documentation, and explaining technical decisions so clients can understand both what is being built and why.
 
 </div>
 
-## What my past clients say about my work
+<!-- ## What my past clients say about my work
 
 <div class="grid cards testimonials" markdown>
 
--   :material-format-quote-open:{ .lg .middle } Adrian Dragomir
-    
-    Founder at Sferal
+- :material-format-quote-open:{ .lg .middle } Adrian Dragomir
 
-    ---
+  Founder at Sferal
 
-    "Dave is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
+  ***
 
--   :material-format-quote-open:{ .lg .middle } Barbara van den Bosch
-    
-    Founder at Viverve
+  "Dave is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
 
-    ---
+- :material-format-quote-open:{ .lg .middle } Barbara van den Bosch
 
-    "Together with Datalumina, we developed a tailor-made program where I, as a school leader, can now bring together vast amounts of information in one place and automate key tasks. **Beyond the tremendous quality improvement for our organization, working with Datalumina was an extremely pleasant experience**."
+  Founder at Viverve
 
--   :material-format-quote-open:{ .lg .middle } Rene Raaphorst
-    
-    Founder at Crypto Insiders
+  ***
 
-    ---
+  "Together with Datalumina, we developed a tailor-made program where I, as a school leader, can now bring together vast amounts of information in one place and automate key tasks. **Beyond the tremendous quality improvement for our organization, working with Datalumina was an extremely pleasant experience**."
 
-    "My experience with Datalumina has been excellent. **They think along with you every step of the way, from proof of concept to a fully functional product**. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Dave and Datalumina to everyone!"
+- :material-format-quote-open:{ .lg .middle } Rene Raaphorst
 
--   :material-format-quote-open:{ .lg .middle } Kelsen
-    
-    Founder at Datavisum
+  Founder at Crypto Insiders
 
-    ---
+  ***
 
-    "I am thankful for having come across Dave and Data Freelancer, it was one of the best investment decisions I've made in 2024. **From effective ways to create inbound marketing strategies using social media, through solution architecture design to address all kinds of business challenges**, you will extract a great deal of value from diverse perspectives."
+  "My experience with Datalumina has been excellent. **They think along with you every step of the way, from proof of concept to a fully functional product**. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Dave and Datalumina to everyone!"
 
-</div>
+- :material-format-quote-open:{ .lg .middle } Kelsen
+
+  Founder at Datavisum
+
+  ***
+
+  "I am thankful for having come across Dave and Data Freelancer, it was one of the best investment decisions I've made in 2024. **From effective ways to create inbound marketing strategies using social media, through solution architecture design to address all kinds of business challenges**, you will extract a great deal of value from diverse perspectives."
+
+</div> -->
 
 ## Frequently asked questions
 
 ??? note "How quickly can you start working on my project?"
-    I can typically begin new projects within 1-2 weeks of contract signing. For urgent matters, I maintain some flexibility for rapid response situations and can potentially start sooner - just let me know your timeline during our initial consultation.
+I can typically begin new projects within 1-2 weeks of contract signing. For urgent matters, I maintain some flexibility for rapid response situations and can potentially start sooner - just let me know your timeline during our initial consultation.
 
 ??? note "Do you require a minimum project size or commitment?"
-    While I can accommodate projects of any size, I find that engagements of at least 20 hours allow for meaningful impact. This gives us enough time to understand your data, implement solutions, and deliver actionable results. We can start with a small pilot project to ensure we're a good fit.
+While I can accommodate projects of any size, I find that engagements of at least 20 hours allow for meaningful impact. This gives us enough time to understand your data, implement solutions, and deliver actionable results. We can start with a small pilot project to ensure we're a good fit.
 
-??? note "What industries do you have experience in?"
-    I've successfully delivered projects across e-commerce, manufacturing, healthcare, and financial services. While I specialize in data science fundamentals that apply across sectors, I particularly excel in projects involving customer behavior analysis, process optimization, and predictive modeling.
+<!-- ??? note "What industries do you have experience in?"
+I've successfully delivered projects across e-commerce, manufacturing, healthcare, and financial services. While I specialize in data science fundamentals that apply across sectors, I particularly excel in projects involving customer behavior analysis, process optimization, and predictive modeling. -->
 
 ??? note "How do you handle data security and confidentiality?"
-    I take data security extremely seriously. I sign comprehensive NDAs before starting any project, use enterprise-grade encryption for all data transfers, and follow industry best practices for data handling. I can also work within your existing security infrastructure and policies.
+I take data security extremely seriously. I sign comprehensive NDAs before starting any project, use enterprise-grade encryption for all data transfers, and follow industry best practices for data handling. I can also work within your existing security infrastructure and policies.
 
 ??? note "What's your pricing structure?"
-    I offer both project-based and retainer pricing models. Project fees are based on scope, complexity, and value delivered rather than hours worked. For ongoing support, I offer flexible retainer packages. Let's discuss your specific needs during our consultation to determine the most cost-effective approach.
+I offer both project-based and retainer pricing models. Project fees are based on scope, complexity, and value delivered rather than hours worked. For ongoing support, I offer flexible retainer packages. Let's discuss your specific needs during our consultation to determine the most cost-effective approach.
 
-??? note "How do you communicate progress and results?"
-    I maintain clear communication through weekly progress updates and regular check-in meetings. You'll receive detailed documentation of all analyses, findings, and recommendations. For ongoing projects, I provide interactive dashboards and reports that allow you to track progress and results in real-time.
-
+<!-- ??? note "How do you communicate progress and results?"
+I maintain clear communication through weekly progress updates and regular check-in meetings. You'll receive detailed documentation of all analyses, findings, and recommendations. For ongoing projects, I provide interactive dashboards and reports that allow you to track progress and results in real-time. -->
 
 <div class="grid cards" style="margin-top: 3rem" markdown>
 
--   :material-coffee:{ .lg .middle } Let's have a virtual coffee together!
+- :material-coffee:{ .lg .middle } **Let's have a virtual coffee together!**
 
-    ---
-    
-    Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your AI challenges and explore how we can work together.
+  ***
 
-    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+  Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your challenges and explore how we can work together.
+
+  [Book Free Intro Call :material-arrow-top-right:](https://calendly.com/ayushvpatel/introduction-call){ .md-button .md-button--primary }
 
 </div>

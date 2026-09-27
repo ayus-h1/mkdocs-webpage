@@ -31,7 +31,7 @@ canonical_url: https://www.ayushvijaykumarpatel.com/
 
 <div class="text-intro-grid" markdown>
 
-# From complex problems to intelligent, automated systems
+# From complex problems to intelligent and powerful systems
 
 ### I work day and night just on that
 
@@ -75,27 +75,27 @@ Here's how building real-world engineering systems allows me to solve your busin
 
 <div class="grid cards why-work-cards" markdown>
 
--   :material-cog:{ .lg .middle } __Engineering-First Approach__
+- :material-cog:{ .lg .middle } **Engineering-First Approach**
 
-    ---
+    ***
 
     My background in mechatronics engineering gives me experience working across software, hardware, controls, and data. I focus on understanding the underlying problem before deciding which technology is the right solution.
 
--   :material-robot:{ .lg .middle } __Applied AI and Robotics__
+- :material-robot:{ .lg .middle } **Applied AI and Robotics**
 
-    ---
+    ***
 
     I represented Canada at the SICK Solution Hackathon in Waldkirch, Germany. I have also contributed software to the EcoCAR Advanced Vehicle Technology Competition, working on technologies for connected and automated vehicles.
 
--   :material-lightbulb-on:{ .lg .middle } __From concept to working solution__
+- :material-lightbulb-on:{ .lg .middle } **From concept to working solution**
 
-    ---
+    ***
 
     I enjoy taking ideas beyond the prototype. From software architecture and data pipelines to hardware integration and control systems, I can work across different layers of a technical solution and turn concepts into functional systems.
 
--   :material-message-text:{ .lg .middle } __Clear Technical Communication__
+- :material-message-text:{ .lg .middle } **Clear Technical Communication**
 
-    ---
+    ***
 
     Technical solutions are only useful when they're understood and maintainable. I prioritize clear communication, practical documentation, and explaining technical decisions so clients can understand both what is being built and why.
 
@@ -141,20 +141,28 @@ Here's how building real-world engineering systems allows me to solve your busin
 
 ## Frequently asked questions
 
-??? note "How quickly can you start working on my project?"
-I can typically begin new projects within 1-2 weeks of contract signing. For urgent matters, I maintain some flexibility for rapid response situations and can potentially start sooner - just let me know your timeline during our initial consultation.
+<details class="note">
+<summary>How quickly can you start working on my project?</summary>
+<p>I can typically begin new projects within 1-2 weeks of contract signing. For urgent matters, I maintain some flexibility for rapid response situations and can potentially start sooner - just let me know your timeline during our initial consultation.</p>
+</details>
 
-??? note "Do you require a minimum project size or commitment?"
-While I can accommodate projects of any size, I find that engagements of at least 20 hours allow for meaningful impact. This gives us enough time to understand your data, implement solutions, and deliver actionable results. We can start with a small pilot project to ensure we're a good fit.
+<details class="note">
+<summary>Do you require a minimum project size or commitment?</summary>
+<p>While I can accommodate projects of any size, I find that engagements of at least 20 hours allow for meaningful impact. This gives us enough time to understand your data, implement solutions, and deliver actionable results. We can start with a small pilot project to ensure we're a good fit.</p>
+</details>
 
 <!-- ??? note "What industries do you have experience in?"
 I've successfully delivered projects across e-commerce, manufacturing, healthcare, and financial services. While I specialize in data science fundamentals that apply across sectors, I particularly excel in projects involving customer behavior analysis, process optimization, and predictive modeling. -->
 
-??? note "How do you handle data security and confidentiality?"
-I take data security extremely seriously. I sign comprehensive NDAs before starting any project, use enterprise-grade encryption for all data transfers, and follow industry best practices for data handling. I can also work within your existing security infrastructure and policies.
+<details class="note">
+<summary>How do you handle data security and confidentiality?</summary>
+<p>I take data security extremely seriously. I sign comprehensive NDAs before starting any project, use enterprise-grade encryption for all data transfers, and follow industry best practices for data handling. I can also work within your existing security infrastructure and policies.</p>
+</details>
 
-??? note "What's your pricing structure?"
-I offer both project-based and retainer pricing models. Project fees are based on scope, complexity, and value delivered rather than hours worked. For ongoing support, I offer flexible retainer packages. Let's discuss your specific needs during our consultation to determine the most cost-effective approach.
+<details class="note">
+<summary>What's your pricing structure?</summary>
+<p>I offer both project-based and retainer pricing models. Project fees are based on scope, complexity, and value delivered rather than hours worked. For ongoing support, I offer flexible retainer packages. Let's discuss your specific needs during our consultation to determine the most cost-effective approach.</p>
+</details>
 
 <!-- ??? note "How do you communicate progress and results?"
 I maintain clear communication through weekly progress updates and regular check-in meetings. You'll receive detailed documentation of all analyses, findings, and recommendations. For ongoing projects, I provide interactive dashboards and reports that allow you to track progress and results in real-time. -->
@@ -163,10 +171,10 @@ I maintain clear communication through weekly progress updates and regular check
 
 - :material-coffee:{ .lg .middle } **Let's have a virtual coffee together!**
 
-  ***
+    ***
 
-  Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your challenges and explore how we can work together.
+    Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your challenges and explore how we can work together.
 
-  [Book Free Intro Call :material-arrow-top-right:](https://calendly.com/ayushvpatel/introduction-call){ .md-button .md-button--primary }
+    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com/ayushvpatel/introduction-call){ .md-button .md-button--primary }
 
 </div>

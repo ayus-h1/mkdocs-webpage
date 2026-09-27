@@ -11,7 +11,7 @@ description: A quick guide to installing Laya, making your first prediction, and
 
 # Getting Started with Laya
 
-## Why Laya?
+## What is and why Laya?
 
 Most AI applications use large language models when they need to understand text. But sometimes you don't need a model to **generate an answer** — you just need it to make a decision.
 

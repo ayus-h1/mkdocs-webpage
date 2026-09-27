@@ -1,6 +1,8 @@
 site_name: Ayush Patel
 site_description: AI and Mechatronics Engineering
 site_url: https://ayushvijaykumarpatel.com
+exclude_docs: |
+  portfolio/**
 
 nav:
   - Home:
@@ -45,8 +47,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   icon:
-    logo: material/slash-forward-box
-  favicon: assets/favicon.png
+    logo: material/robot
 
 extra:
   generator: true
